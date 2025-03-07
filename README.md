@@ -1,9 +1,7 @@
 # Video Game Sales and Metacritic Scores
 
 _by Matt Colbert and Mike Colbert, January 2023_
-![HTML5 badge](https://img.shields.io/static/v1?message=HTML
-%205&logo=HTML5&labelColor=E34F26&color=E34F26&logoColor=white&label=%20&style=for-
-the-badge)
+![HTML5 badge](https://img.shields.io/static/v1?message=HTML%205&logo=HTML5&labelColor=E34F26&color=E34F26&logoColor=white&label=%20&style=for-the-badge)
 
 ## :video_game: Summary
 
@@ -15,10 +13,7 @@ skew the data.
 This repository publishes the website. You can read the full paper at:
 https://felixmenges.me/
 ![Two people playing video games](jeshoots-com-eCktzGjC-iU-unsplash.jpg)
-_Photo by [JESHOOTS.COM](https://unsplash.com/@jeshoots?
-utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash]
-(https://unsplash.com/photos/two-people-playing-sony-ps4-game-console-eCktzGjC-iU?
-utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)_
+_Photo by [JESHOOTS.COM](https://unsplash.com/@jeshoots?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/two-people-playing-sony-ps4-game-console-eCktzGjC-iU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)_
 
 ## ToDo
 
